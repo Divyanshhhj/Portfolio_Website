@@ -99,7 +99,7 @@ export const Contact = () => {
                   <b>EMAIL</b>
                 </Typography>
                 <Typography color="primary.text" align={alignValue}>
-                  divyansh87264@gmail.com
+                  joshidivyansh2812@gmail.com
                 </Typography>
                 <Typography
                   variant="h6"
