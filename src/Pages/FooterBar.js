@@ -35,7 +35,7 @@ function FooterIconHelper({ item }) {
 
 export const FooterBar = () => {
   const footerLinks = [
-    { icon: EmailIcon, linkIs: "mailto:divyansh87264@gmail.com" },
+    { icon: EmailIcon, linkIs: "mailto:joshidivyansh2812@gmail.com" },
     {
       icon: LinkedInIcon,
       linkIs: "https://www.linkedin.com/in/divyansh-joshi-721600248/",
